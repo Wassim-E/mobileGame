@@ -1,0 +1,7 @@
+Privacy Policy
+Last Updated : 21 February 2023
+
+
+The game Shuttle Flight in itself doesnt gather any data. 
+The only data collected are through the Unity Ads.
+Their privacy policy is here : https://unity.com/legal/privacy-policy
